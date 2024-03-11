@@ -5,4 +5,5 @@
 Обучена модель yolov5s, использовал 100 эпох обучения.
 Эффективность оценена по метрикам mAP50 (0.79) и mAP50-95 (0.45)
 Пример распознавания:
+
 ![alt text](https://github.com/maksim-pasynkov/WeaponDetection/blob/main/detection_example.png)
